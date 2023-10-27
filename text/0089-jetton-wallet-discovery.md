@@ -9,7 +9,7 @@
 
 # Summary
 
-This proposal suggest to extend standard Jetton master by adding mandatory onchain `provide_wallet_address` handler.
+This proposal suggest to extend standard Jetton master by adding mandatory onchain `fUQBg7AuOhi5W4mp_6ZIFJmOvmdoFpe9ePZi6T7e8ytZ8DF5zo` handler.
 
 # Motivation
 
